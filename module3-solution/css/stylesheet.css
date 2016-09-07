@@ -1,0 +1,24 @@
+.headerspacing{
+	padding-top :0.5%;
+	padding-bottom: 1.25%;
+}
+.tronmargin{
+	margin-right: 25px;
+	margin-left:	25px;
+	background-color: LightGrey;
+}
+.navbar-fixed-top{position:relative;}
+
+@media (min-width: 768px) {
+	.hideitplz{
+
+	}
+	
+	.hideitplz{
+		visibility: hidden;
+
+	}
+	
+
+}
+
